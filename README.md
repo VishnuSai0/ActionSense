@@ -1,4 +1,4 @@
-# Human Action Recognition
+# Action Sense : A data driven approach for Human Action Recognition
 
 ## How to run?
 
